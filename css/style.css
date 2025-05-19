@@ -88,7 +88,7 @@ section,       /* <section> 要素すべて */
 /* about */
 
 .about{
-    background: url(../img/molt_mission_2.png);
+    background: url(../img/mission.png);
     background-size: cover;
     background-position: center;
     margin-top: 60px;
